@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\HdXXVNulQVUZXXZ3W9VJNxXFHBRn_XlKJ40nVMQy0wg=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\oOmhoRU7NsQEMK5FyGlzVOtNu5T_9kUYfkeyCY_CTeQ=.hash",
       "Source": "D:\\dotNet\\CICalc\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\CICalc.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/CICalc.dll.br"
     },
@@ -261,7 +261,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\lYqxPawxJPujgtZ3z0QPtjTSQ7wQtabrdGoE6jITP_I=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\bV8giBr6rn1cw4iYFWdsqLyQhOl1US2ufi2-9wlzD_k=.hash",
       "Source": "D:\\dotNet\\CICalc\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\CICalc.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/CICalc.pdb.br"
     },
@@ -286,7 +286,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\vXkUTISckR_ybAUObkwc4L80YyOYMuuAdwEL7EDtZuc=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\jHsCQAHwYYPEnrEnPW21cRg9H6UCiBh9Q1R-E7opIPg=.hash",
       "Source": "D:\\dotNet\\CICalc\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     }

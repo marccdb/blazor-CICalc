@@ -178,7 +178,6 @@ D:\dotNet\CICalc\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
 D:\dotNet\CICalc\obj\Debug\netstandard2.1\CICalc.RazorTargetAssemblyInfo.cache
 D:\dotNet\CICalc\obj\Debug\netstandard2.1\CICalc.csproj.CopyComplete
 D:\dotNet\CICalc\obj\Debug\netstandard2.1\blazor\unlinked.output
-D:\dotNet\CICalc\obj\Debug\netstandard2.1\integrity\HdXXVNulQVUZXXZ3W9VJNxXFHBRn_XlKJ40nVMQy0wg=.hash
 D:\dotNet\CICalc\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 D:\dotNet\CICalc\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 D:\dotNet\CICalc\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -230,13 +229,11 @@ D:\dotNet\CICalc\obj\Debug\netstandard2.1\integrity\zNP4aHLW-rhi6gW72YV8xGy1rLa_
 D:\dotNet\CICalc\obj\Debug\netstandard2.1\integrity\oAIlpv09S-0jXnze744E1V88Oaw8Ql1x3Alw0hsVYdw=.hash
 D:\dotNet\CICalc\obj\Debug\netstandard2.1\integrity\K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=.hash
 D:\dotNet\CICalc\obj\Debug\netstandard2.1\integrity\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
-D:\dotNet\CICalc\obj\Debug\netstandard2.1\integrity\lYqxPawxJPujgtZ3z0QPtjTSQ7wQtabrdGoE6jITP_I=.hash
 D:\dotNet\CICalc\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 D:\dotNet\CICalc\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 D:\dotNet\CICalc\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 D:\dotNet\CICalc\obj\Debug\netstandard2.1\integrity\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
 D:\dotNet\CICalc\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-D:\dotNet\CICalc\obj\Debug\netstandard2.1\integrity\vXkUTISckR_ybAUObkwc4L80YyOYMuuAdwEL7EDtZuc=.hash
 D:\dotNet\CICalc\obj\Debug\netstandard2.1\compressed\_framework\_bin\CICalc.dll.gz
 D:\dotNet\CICalc\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 D:\dotNet\CICalc\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
@@ -357,3 +354,8 @@ D:\dotNet\CICalc\obj\Debug\netstandard2.1\staticwebassets\CICalc.StaticWebAssets
 D:\dotNet\CICalc\obj\Debug\netstandard2.1\staticwebassets\CICalc.StaticWebAssets.xml
 D:\dotNet\CICalc\obj\Debug\netstandard2.1\CICalc.dll
 D:\dotNet\CICalc\obj\Debug\netstandard2.1\CICalc.pdb
+D:\dotNet\CICalc\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CompoundInterest.razor.g.cs
+D:\dotNet\CICalc\obj\Debug\netstandard2.1\Razor\Pages\CompoundInterest.razor.g.cs
+D:\dotNet\CICalc\obj\Debug\netstandard2.1\integrity\oOmhoRU7NsQEMK5FyGlzVOtNu5T_9kUYfkeyCY_CTeQ=.hash
+D:\dotNet\CICalc\obj\Debug\netstandard2.1\integrity\bV8giBr6rn1cw4iYFWdsqLyQhOl1US2ufi2-9wlzD_k=.hash
+D:\dotNet\CICalc\obj\Debug\netstandard2.1\integrity\jHsCQAHwYYPEnrEnPW21cRg9H6UCiBh9Q1R-E7opIPg=.hash
